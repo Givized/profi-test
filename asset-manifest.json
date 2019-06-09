@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/profi-test/static/css/main.afbe291c.chunk.css",
+    "main.js": "/profi-test/static/js/main.80d3c16e.chunk.js",
+    "main.js.map": "/profi-test/static/js/main.80d3c16e.chunk.js.map",
+    "runtime~main.js": "/profi-test/static/js/runtime~main.a31749cb.js",
+    "runtime~main.js.map": "/profi-test/static/js/runtime~main.a31749cb.js.map",
+    "static/js/2.9575b4d5.chunk.js": "/profi-test/static/js/2.9575b4d5.chunk.js",
+    "static/js/2.9575b4d5.chunk.js.map": "/profi-test/static/js/2.9575b4d5.chunk.js.map",
+    "index.html": "/profi-test/index.html",
+    "precache-manifest.9aecf769910df42aeb3f59bc4d7b3fb7.js": "/profi-test/precache-manifest.9aecf769910df42aeb3f59bc4d7b3fb7.js",
+    "service-worker.js": "/profi-test/service-worker.js",
+    "static/css/main.afbe291c.chunk.css.map": "/profi-test/static/css/main.afbe291c.chunk.css.map",
+    "static/media/1562555.jpg": "/profi-test/static/media/1562555.1ffd515c.jpg",
+    "static/media/P7181756.jpg.optimal.jpg": "/profi-test/static/media/P7181756.jpg.optimal.2a614f50.jpg",
+    "static/media/app.scss": "/profi-test/static/media/Roboto-Regular.3e1af3ef.ttf",
+    "static/media/bagarmossen.jpg": "/profi-test/static/media/bagarmossen.5d0fd7dd.jpg",
+    "static/media/download.jpeg": "/profi-test/static/media/download.0fa13bc0.jpeg",
+    "static/media/t-centralen-liggande.jpeg": "/profi-test/static/media/t-centralen-liggande.6cae008e.jpeg",
+    "static/media/thorildsplan-liggande.jpeg": "/profi-test/static/media/thorildsplan-liggande.d549aadc.jpeg"
+  }
+}
