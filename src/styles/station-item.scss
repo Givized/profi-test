@@ -1,0 +1,92 @@
+.station-item{
+    display: flex;
+    margin-bottom: 40px;
+
+    &__image{
+      width: 150px;
+      height: 100px;
+      border-radius: 4px;
+
+      background-size: cover;
+      background-position: center;
+      
+      flex-shrink: 0;
+      margin-right: 20px;
+      margin-top: 5px;
+    }
+
+    &__text{
+      display: flex;
+      flex-direction: column;
+    }
+
+    &__title{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        line-height: 31px;
+        margin: 0;
+        font-weight: normal;
+    }
+      
+    &__description{
+        font-size: 16px;
+        margin-top: 7px;
+        line-height: 22px;
+    }
+
+    &__name{
+        font-size: 24px;
+        white-space: nowrap;
+        margin-right: 20px;
+    }
+
+    &__line{
+        font-size: 18px;
+        text-transform: uppercase;
+        opacity: 0.4;
+        white-space: nowrap;
+        &_red{ color: #FF3D00; }
+        &_blue{ color: #0060FF; }
+        &_green{ color: #027500; }
+    }
+
+    &_tile{
+        flex-direction: column;
+        width: 300px;
+        margin: 0 15px 45px 15px;
+    }
+
+    &_tile &__image{
+        height: 200px;
+        width: auto;
+        margin: 0;
+    }
+    
+    &_tile &__text {
+        margin-top: 10px;
+    }
+
+    &_tile &__line{
+        display: none;
+    }
+
+    &_tile &__description{
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 5;
+        -webkit-box-orient: vertical;
+        max-height: 110px;
+      }
+  }
+
+
+
+  
+  
+    
+  
+  
+  
+      
